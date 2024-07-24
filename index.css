@@ -8,7 +8,7 @@ body {height: 100vh;
 .container {display: grid;
   grid-column: auto;
   justify-content: center;
-  height: 95vh;
+  height: 93vh;
   width: 68vb;
   background-color: #c8b3ae;  
   border-radius: 25px;
@@ -51,7 +51,7 @@ input {
   height: 9.55vh;  
   width: 57vb;
   padding: 0px 10px ;
-  color: #1c3c74;
+  color: #0b285a;
   font-weight: bold;
   font-family:monospace;    
 }
@@ -111,3 +111,4 @@ button:active {
   background-color: rgb(131, 205, 205);
 }
  
+
