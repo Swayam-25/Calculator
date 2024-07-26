@@ -64,7 +64,7 @@ input {
   background-color: #1b604e;
   font-size: 3.5em;
   height: 9.55vh;
-  width: 95%;
+  width: 96%;
   padding: 0px 10px;
   color: #0b285a;
   font-family: monospace;
@@ -134,4 +134,6 @@ button:active {
 #eq:hover {
   background-color: rgb(131, 205, 205);
 }
-
+@media only screen and(max-height:412px){
+  button{font-size: 3.5em;}
+}
